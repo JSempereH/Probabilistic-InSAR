@@ -47,3 +47,7 @@ See the conversation / project notes for the full walkthrough. Short version:
    referenced to a GNSS-consistent datum) as CSV, or the **Ortho (L3)**
    product if you want pre-decomposed vertical/east-west motion.
 4. Drop the CSV under `data/` and load it with `insar_mht.io.egms.load_egms_csv`.
+
+## License
+
+[European Union Public Licence v. 1.2 (EUPL-1.2)](LICENSE).
