@@ -8,6 +8,10 @@ version = "0.1.0"
 description = "A probabilistic postprocessing library for InSAR kinematic time series, implementing Chang & Hanssen (2016)."
 readme = "README.md"
 requires-python = ">=3.10"
+license = { file = "LICENSE" }
+classifiers = [
+    "License :: OSI Approved :: European Union Public Licence 1.2 (EUPL 1.2)",
+]
 dependencies = [
     "numpy>=1.24",
     "scipy>=1.10",
